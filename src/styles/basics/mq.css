@@ -1,0 +1,9 @@
+@media (max-width: 830px) {
+  .hero-title {
+    font-size: 3rem;
+  }
+
+  .links-container {
+    flex-direction: column;
+  }
+}

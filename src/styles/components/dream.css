@@ -1,0 +1,40 @@
+.dream-container {
+  margin-top: 4rem;
+  /* //filter: brightness(40%); */
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(/src/assets/imgs/hero-home.jpg) no-repeat;
+  /* background-image: url(/src/assets/imgs/hero-home.jpg); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 20rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--med-white);
+}
+
+/* .dream-title {
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--med-white);
+}
+
+.dream-container p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--med-white);
+} */
+
+.dream-container button {
+  color: var(--med-white);
+  padding: 0.5rem 0.5rem;
+  border-style: none;
+  border-radius: 5px;
+  border: 2px solid aliceblue;
+  /* filter: blur(3px); */
+  background: transparent;
+  cursor: pointer;
+  font-weight: 100;
+}

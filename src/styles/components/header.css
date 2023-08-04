@@ -1,0 +1,29 @@
+.header-nav {
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+  padding: 0.7rem 0rem;
+}
+
+.title {
+  color: var(--dark-black);
+  font-family: Verdana, sans-serif;
+}
+
+.links-container {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  font-family: 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn-contact {
+  border-style: none;
+  padding: 0.5rem 0.9rem;
+  letter-spacing: 0.05em;
+  border-radius: 2rem;
+  color: var(--light-white);
+  font-weight: 100;
+  background-color: var(--light-blue);
+  cursor: pointer;
+}
