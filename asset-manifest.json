@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/architecture-design/static/css/main.ce5b78d1.css",
+    "main.js": "/architecture-design/static/js/main.f6a8afd9.js",
+    "static/media/hero-home.jpg": "/architecture-design/static/media/hero-home.f4827ddf390025395e3d.jpg",
+    "static/media/exp-img-blue.avif": "/architecture-design/static/media/exp-img-blue.3405d6b2fe2493afaf62.avif",
+    "index.html": "/architecture-design/index.html",
+    "main.ce5b78d1.css.map": "/architecture-design/static/css/main.ce5b78d1.css.map",
+    "main.f6a8afd9.js.map": "/architecture-design/static/js/main.f6a8afd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce5b78d1.css",
+    "static/js/main.f6a8afd9.js"
+  ]
+}
