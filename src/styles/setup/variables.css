@@ -98,4 +98,19 @@
   --light-blue: #187feb;
   --med-white: #f7faf7;
   /* --transition: 0.2s ease-in-out; */
+
+  /* pallete */
+  --clrPrimary2: #f0f0f0;
+  --clrPrimary1: #b4ad9e;
+  --clrPrimarybase: #626262;
+  --clrPrimary-1: #000;
+
+  /* layout */
+  --layout-margin-start: 1.5rem;
+  --layout-margin-end: 1.5rem;
+
+  /* bp */
+  --l: 1400px;
+  --m: 1100px;
+  --s: 600px;
 }

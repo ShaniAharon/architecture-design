@@ -1,0 +1,34 @@
+/* flex helpers */
+.flex {
+  display: flex;
+}
+
+.flex.space-between {
+  justify-content: space-between;
+}
+
+.flex.align-center {
+  align-items: center;
+}
+
+/* list helpers */
+
+.clean-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+/* btn view design */
+.btn-about {
+  border-style: none;
+  padding: 0.7rem 1rem;
+  border-radius: 0.3rem;
+  color: var(--light-blue);
+  /* background-color: var(--light-blue); */
+  background-color: white;
+  border: 1px solid var(--light-blue);
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+}

@@ -8,10 +8,12 @@ import {Discover} from './cmps/discover'
 import {Clients} from './cmps/clients'
 import {Dream} from './cmps/dream'
 import {Footer} from './cmps/footer'
+import {MainScreen} from './cmps/main-screen'
 
 export function App() {
   return (
     <main className="main-toy-app">
+      <MainScreen />
       <Header />
       <Routes>
         {/* <Route element={<ToyDetails />} path="/toy/details/:toyId" />

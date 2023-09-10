@@ -17,6 +17,10 @@
   color: var(--med-white);
 }
 
+.dream-container p {
+  font-size: small;
+}
+
 /* .dream-title {
   font-family: Arial, Helvetica, sans-serif;
   color: var(--med-white);

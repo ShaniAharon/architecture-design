@@ -6,7 +6,6 @@
 @import './basics/util.css';
 @import './basics/helpers.css';
 @import './basics/layout.css';
-@import './basics/mq.css';
 
 /** CMPS **/
 @import './components/header.css';
@@ -16,6 +15,10 @@
 @import './components/clients.css';
 @import './components/dream.css';
 @import './components/footer.css';
+@import './components/main-screen.css';
 
 /* VIEWS */
 @import './views/home-page.css';
+
+/* bp */
+@import './basics/mq.css';
